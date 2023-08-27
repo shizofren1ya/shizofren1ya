@@ -74,7 +74,7 @@ I am a BackEnd Developer with 3+ years of experience in developing enterprise ap
     <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dzvyagin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shizofren1ya&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <a href="#"><img alt="Danila's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shizofren1ya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="Shizofren1ya's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shizofren1ya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
