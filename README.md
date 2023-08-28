@@ -69,12 +69,12 @@ I am a BackEnd Developer with 3+ years of experience in developing enterprise ap
 
 <br/>
 <p align="center">
-    <a href="#"><img alt="Shizofren1ya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizofren1ya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-    <a href="https://github.com/dzvyagin/github-readme-stats"><img alt="Shizofren1ya's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shizofren1ya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="#"><img alt="shzzos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shzzos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/dzvyagin/github-readme-stats"><img alt="shzzos's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shizofren1ya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
     <a href="#">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dzvyagin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shizofren1ya&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dzvyagin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shzzos&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <a href="#"><img alt="Shizofren1ya's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shizofren1ya&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="#"><img alt="Shizofren1ya's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=shzzos&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -83,12 +83,12 @@ I am a BackEnd Developer with 3+ years of experience in developing enterprise ap
 <br/>
 
 <p align="center">
-  <a href="https://github.com/shizofren1ya?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shizofren1ya"/></a>
+  <a href="https://github.com/shzzos?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/shzzos"/></a>
   <a href="https://github.com/shizofren1ya?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shizofren1ya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/shzzos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="#">
-    <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=shizofren1ya&style=for-the-badge"/></a>
+    <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=shzzos&style=for-the-badge"/></a>
 </p>
  
 
