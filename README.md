@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 📫 &nbsp;How to reach me: <a href = "mailto: me@shzzz.ru">Send Email</a>  
-- 👨‍💻 &nbsp;My websites: <a href="https://qualis.pro" target="_blank">shzzz.ru</a>
+- 👨‍💻 &nbsp;My websites: <a href="https://shzzz.ru" target="_blank">shzzz.ru</a>
 
 <p align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=BackEnd%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
