@@ -70,7 +70,7 @@ I am a BackEnd Developer with 3+ years of experience in developing enterprise ap
 <br/>
 <p align="center">
     <a href="#"><img alt="shzzos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shzzos&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-    <a href="https://github.com/dzvyagin/github-readme-stats"><img alt="shzzos's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shizofren1ya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/dzvyagin/github-readme-stats"><img alt="shzzos's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=shzzos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
     <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dzvyagin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shzzos&theme=monokai-metallian&hide_border=true"/>
     </a>
