@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;My websites: <a href="https://shzzz.ru" target="_blank">shzzz.ru</a>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=BackEnd%20developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- About me -->
@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things :rofl:
 <summary>✨ About me</summary>
 <br/>
 <p>
-I am a BackEnd Developer with 3+ years of experience in developing enterprise applications and interesting things.
+I am a Sowftware Engineer with 4+ years of experience in developing enterprise applications and interesting things.
 </p>
 <a href="https://imgur.com/z7iOOi8"><img src="https://i.imgur.com/z7iOOi8.jpg" title="source: imgur.com" /></a>
   <br/>
