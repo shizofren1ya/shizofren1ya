@@ -4,11 +4,10 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 📫 &nbsp;How to reach me: <a href = "mailto: me@shzzz.ru">Send Email</a>  
 - 👨‍💻 &nbsp;My websites: <a href="https://shzzz.ru" target="_blank">shzzz.ru</a>
-- 🫵🫶🏻 Hi, I’m Daniel 
-- 👀 Hobbies other than coding: 🏊‍♂️ swimming and 🦾 fitness
-- 📫 Telegram [@shzzos](https://t.me/shzzos)
-- 💌 Email contact@shzzz.ru
-- 📚 My Hexlet [profile](https://ru.hexlet.io/u/shzzz)
+- 👀 &nbsp;Hobbies other than coding: 🏊‍♂️ swimming and 🦾 fitness
+- 📫 &nbsp;Telegram [@shzzos](https://t.me/shzzos)
+- 💌 &nbsp;Email contact@shzzz.ru
+- 📚 &nbsp;My Hexlet [profile](https://ru.hexlet.io/u/shzzz)
  
  
 <p align="center">
